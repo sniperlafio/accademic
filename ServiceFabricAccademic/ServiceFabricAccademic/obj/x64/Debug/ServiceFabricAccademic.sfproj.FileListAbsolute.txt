@@ -1,0 +1,1 @@
+C:\Github\Repository\accademic\ServiceFabricAccademic\ServiceFabricAccademic\obj\x64\Debug\ServiceFabricAccademic.sfproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\obj\Debug\netcoreapp2.0\win7-x64\StatefulService1.csproj.CoreCompileInputs.cache
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\obj\Debug\netcoreapp2.0\win7-x64\StatefulService1.AssemblyInfoInputs.cache
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\obj\Debug\netcoreapp2.0\win7-x64\StatefulService1.AssemblyInfo.cs
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\bin\Debug\netcoreapp2.0\win7-x64\StatefulService1.exe
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\bin\Debug\netcoreapp2.0\win7-x64\StatefulService1.deps.json
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\bin\Debug\netcoreapp2.0\win7-x64\StatefulService1.runtimeconfig.json
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\bin\Debug\netcoreapp2.0\win7-x64\StatefulService1.runtimeconfig.dev.json
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\bin\Debug\netcoreapp2.0\win7-x64\StatefulService1.dll
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\bin\Debug\netcoreapp2.0\win7-x64\StatefulService1.pdb
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\obj\Debug\netcoreapp2.0\win7-x64\StatefulService1.csprojResolveAssemblyReference.cache
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\obj\Debug\netcoreapp2.0\win7-x64\StatefulService1.dll
+C:\Github\Repository\accademic\ServiceFabricAccademic\StatefulService1\obj\Debug\netcoreapp2.0\win7-x64\StatefulService1.pdb
