@@ -1,2 +1,2 @@
 # accademic
-Accademic repository
+Accademic repository for accademic purposes.
